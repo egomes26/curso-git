@@ -1,0 +1,10 @@
+##COMANDOS GIT##
+
+
+
+
+git log
+git whatchanged
+
+mostra todos os commits e a alteração
+git whatchanged -p
